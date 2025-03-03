@@ -26,13 +26,15 @@ CSS for styling and responsiveness
 JavaScript for quiz logic and interactivity
 
 
-📌 How to Use:
+📂 How to Run the Project:
 
-Step 1 : Open the app in your browser.
+STEP 1 :- Clone the repository: git clone https://github.com/your-username/amazon-clone.git
 
-Step 2 : Solve the given math problems.
+STEP 2 :- Open the index.html file in a browser.
 
-Step 3 : Submit your answers and check your score.
+STEP 3 :- Solve the given math problems.
+
+STEP 4 :- Submit your answers and check your score.
 
 **Challenge yourself to improve!🚀🚀.....
 
