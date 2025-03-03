@@ -28,7 +28,7 @@ JavaScript for quiz logic and interactivity
 
 📂 How to Run the Project:
 
-STEP 1 :- Clone the repository: git clone https://github.com/your-username/amazon-clone.git
+STEP 1 :- Clone the repository: git clone (https://github.com/akki-p010/Project-2.git)
 
 STEP 2 :- Open the index.html file in a browser.
 
